@@ -1,0 +1,19 @@
+
+public class TestaSomatoria {
+
+	public static void main(String[] args) {
+		
+		int contador = 0; // Declaração e inicialização de variável.
+		int total = 0; // Declaração e inicialização de variável.
+		
+		while(contador <= 10) { // 
+			
+			total = total;
+			
+			System.out.println(total);
+			
+			total++;
+		}
+		
+	}
+}
